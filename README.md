@@ -70,6 +70,8 @@ Lending club has originated up to X billions of dollars in loans.[^5]
 
 * How is your company performing relative to competitors in the same domain?
 
+* SoFi reported $2.98 billion in loan originations in Q4 2022, which represents a 20.9% decline compared to Q4 2021, and a 14.5% decline compared to Q3 2021. Personal loan originations were $2.47 billion, which represents a 49.8% increase compared to Q4 2021, but a 12.2% decline compared to Q3 2022.[^6] 
+
 
 ## Recommendations
 
@@ -87,6 +89,10 @@ Lending club has originated up to X billions of dollars in loans.[^5]
 [^3]: https://www.lendingclub.com/poweredbylc
 [^4]: https://www.globenewswire.com/news-release/2023/01/11/2586809/0/en/P2P-Lending-Market-Size-to-Touch-USD-804-2-Billion-by-2030-Says-Acumen-Research-and-Consulting.html#:~:text=P2P%20Lending%20Market%20Research%20Report,growing%20at%20a%2029.1%25%20CAGR.
 [^5]: https://ir.lendingclub.com/news/news-details/2023/LendingClub-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx
+[^6]:   https://www.popularfintech.com/p/sofi-q4-2022-earnings-review-the#:~:text=SoFi%20reported%20%242.98%20billion%20in,decline%20compared%20to%20Q3%202022.
+
+
+
 Other Sources:
 The Role of Peer-to-Peer Lending in Fintech - Spiceworks
 Peer to Peer (P2P) Lending Market Size, Share and Analysis | 2027 (alliedmarketresearch.com)

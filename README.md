@@ -21,7 +21,7 @@ LendingClub aims to solve the problem of inefficient and traditional lending by 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
    LendingClub's intended customers include both borrowers and investors. Borrowers are typically individuals looking for personal loans for various purposes, such as debt consolidation, home improvement, or small business financing. Investors are individuals or institutions seeking to invest their money in the loans originated through the platform.
 
-The market size for such customers is quite large as it encompasses a broad range of consumer and investor segments from individuals to businesses. The size of the peer-to-peer lending market in the United States and globally has grown significantly over the years The global peer to peer lending market size was valued at USD 82,300 million in 2021, and is expected to touch USD 804,200 million by 2030, growing at a 29.1% CAGR. 
+   The market size for such customers is quite large as it encompasses a broad range of consumer and investor segments from individuals to businesses. The size of the peer-to-peer lending market in the United States and globally has grown significantly over the years The global peer to peer lending market size was valued at USD 82,300 million in 2021, and is expected to touch USD 804,200 million by 2030, growing at a 29.1% CAGR. 
 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)

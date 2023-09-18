@@ -39,13 +39,11 @@ It's important to mention that the LC™ platform incorporates patented technolo
   LendingClub operates in the domain of online banking specifically the peer-to-peer lending and online lending space. 
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
-•	Market Growth: The industry has seen substantial growth, with more borrowers and investors participating in online lending platforms.
-•	Regulatory Changes: Regulatory bodies have implemented rules and regulations to ensure consumer protection and transparency in the industry.
-•	Diversification of Loan Products: Online lending platforms have expanded their offerings beyond personal loans to include products like small business loans and student loans.
-•	Advanced Underwriting: The use of advanced data analytics and machine learning has improved underwriting processes, enabling more accurate risk assessment.
-•	Institutional Participation: An increasing number of institutional investors, such as hedge funds and asset managers, have become active participants in the peer-to-peer lending space.
-•	Securitization: Some platforms have explored securitization of loans, packaging them into tradable securities.
+* •	Increased trust in online marketplaces: With the rise of e-commerce and online marketplaces, people have become more comfortable making financial transactions online. This has helped to increase trust in P2P lending platforms. •Easier access to credit: P2P lending platforms have found ways to make it easier for borrowers to access credit, particularly those who may not qualify for a loan from a traditional bank. •	Regulatory Changes: Regulatory bodies have implemented rules and regulations to ensure consumer protection and transparency in the industry adding to the trust that consumers have. Additionally - •	Diversification of Loan Products: Numerous Online lending platforms have expanded their offerings beyond personal loans to include products like small business loans and student loans, Lending club has done this. •	Advanced Underwriting: The use of advanced data analytics and machine learning has improved underwriting processes, enabling more accurate risk assessment. •Institutional Participation: An increasing number of institutional investors, such as hedge funds and asset managers, have become active participants in the peer-to-peer lending space.
+•	Securitization: Other platforms have explored the idea securitization of loans, packaging them into tradable securities where people can buy and sell loan securities just like stocks and other commodities traded.
+
 * What are the other major companies in this domain?
+  Other major companies in this domain include:
 •	Prosper: Prosper is another well-known peer-to-peer lending platform that connects borrowers and investors.
 •	Upstart: Upstart uses artificial intelligence and machine learning to facilitate personal loans and has expanded into auto and personal loans for education.
 •	SoFi (Social Finance): SoFi provides a range of financial products, including personal loans, student loan refinancing, and mortgage loans.

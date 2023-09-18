@@ -33,5 +33,42 @@ The LC™ platform is a sophisticated technology ecosystem developed and refined
 The LC™ platform is particularly noteworthy for its ability to connect investors and lenders with individuals seeking loans, such as personal or medical loans. It streamlines the borrowing process for individuals while helping lenders find suitable borrowers that match their preferred level of credit risk.
 Additionally, individuals have the option to access LendingClub's website, which is powered by the LC platform. Through this platform, users can apply for loans, explore loan options and interest rates, and manage their loan payments. Users can also make use of LC-enabled services to monitor their credit scores and receive financial health assessments. For investors, the platform offers opportunities for investment and access to loan performance data that aids in making informed investment decisions.
 It's important to mention that the LC™ platform incorporates patented technology, which may include innovations covered by one or more of the following patents: U.S. Patent No. 10,613,738, U.S. Patent No. 10,628,242, U.S. Patent No. 10,705,712, U.S. Patent No. 10,606,636, U.S. Patent No. 10,613,894, U.S. Patent No. 10,467,127, U.S. Patent No. 10,437,689, U.S. Patent No. 10,042,879, and U.S. Patent No. 10,114,857.
+## Landscape
+
+* What domain of the financial industry is the company in?
+  LendingClub operates in the domain of online banking specifically the peer-to-peer lending and online lending space. 
+
+* What have been the major trends and innovations of this domain over the last 5–10 years?
+•	Market Growth: The industry has seen substantial growth, with more borrowers and investors participating in online lending platforms.
+•	Regulatory Changes: Regulatory bodies have implemented rules and regulations to ensure consumer protection and transparency in the industry.
+•	Diversification of Loan Products: Online lending platforms have expanded their offerings beyond personal loans to include products like small business loans and student loans.
+•	Advanced Underwriting: The use of advanced data analytics and machine learning has improved underwriting processes, enabling more accurate risk assessment.
+•	Institutional Participation: An increasing number of institutional investors, such as hedge funds and asset managers, have become active participants in the peer-to-peer lending space.
+•	Securitization: Some platforms have explored securitization of loans, packaging them into tradable securities.
+* What are the other major companies in this domain?
+•	Prosper: Prosper is another well-known peer-to-peer lending platform that connects borrowers and investors.
+•	Upstart: Upstart uses artificial intelligence and machine learning to facilitate personal loans and has expanded into auto and personal loans for education.
+•	SoFi (Social Finance): SoFi provides a range of financial products, including personal loans, student loan refinancing, and mortgage loans.
+•	Avant: Avant specializes in offering personal loans to borrowers with varying credit profiles.
+
+## Results
+
+* What has been the business impact of this company so far?
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+* How is your company performing relative to competitors in the same domain?
+
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
+
 
 

@@ -1,5 +1,6 @@
 # Challenge-1
 Lending Club the forefront of Peer to Peer Lending 
+*Precis: Lending Club is a pioneering fintech company that has redefined the lending landscape by connecting borrowers and investors through an online marketplace. Its innovative business model has democratized access to credit and created investment opportunities for individuals. However, it has also navigated regulatory challenges and faced competition in an evolving industry. LendingClub's journey underscores the transformative potential of fintech in reshaping traditional financial services.
 ## Overview and Origin
 * What is the name of the company?
 Lending Club

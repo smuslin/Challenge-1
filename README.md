@@ -43,10 +43,10 @@ It's important to mention that the LC™ platform incorporates patented technolo
 
 * What are the other major companies in this domain?
   Other major companies in this domain include:
-•	Prosper: Prosper is another well-known peer-to-peer lending platform that connects borrowers and investors.
-•	Upstart: Upstart uses artificial intelligence and machine learning to facilitate personal loans and has expanded into auto and personal loans for education.
-•	SoFi (Social Finance): SoFi provides a range of financial products, including personal loans, student loan refinancing, and mortgage loans.
-•	Avant: Avant specializes in offering personal loans to borrowers with varying credit profiles.
+•	Prosper:  another well-known peer-to-peer lending platform that connects borrowers and investors.
+•	Upstart: A p2p lender that uses artificial intelligence and machine learning to facilitate personal loans and has expanded into auto and personal loans for education.
+•	SoFi (Social Finance): who provides a range of financial products, including personal loans, student loan refinancing, and mortgage loans.
+•	Avant: who specializes in offering personal loans to borrowers with varying credit profiles (more risky borrowers than LC).
 
 ## Results
 

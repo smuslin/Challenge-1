@@ -9,9 +9,9 @@ Lending club was incorporated on April 7th, 2006.
 * Who are the founders of the company?	
 LendingClub was co-founded by Renaud Laplanche, Soul Htite, and Francis Luyens.
 * How did the idea for the company (or project) come about?
-The idea for LendingClub came from Renaud Laplanche, who envisioned a platform that would revolutionize the lending industry. He wanted to create a peer-to-peer lending marketplace that would directly connect borrowers in need of personal loans with individual investors willing to fund those loans. This concept aimed to make the lending process more efficient, transparent, and accessible to both borrowers and investors.
+The idea for LendingClub came from Renaud Laplanche, who envisioned a platform that would revolutionize the lending industry. He wanted to create a peer-to-peer lending marketplace that would directly connect borrowers in need of personal loans with individual investors willing to fund those loans. This concept aimed to make the lending process more efficient, transparent, and accessible to both borrowers and investors.[^1]
 * How is the company funded? How much funding have they received? 
-Lending Club has successfully secured a total of $392.2 million in funding through 15 rounds of financing. Their most recent funding was obtained on April 9, 2017, in a Post-IPO Equity round. Lending Club is listed on the New York Stock Exchange (NYSE) under the ticker symbol LC. When it initially went public on December 11, 2014, its stock opened at $15.00 per share. The company has received funding from a group of 24 investors, with Two Sigma and Panorama Point Partners being the most recent contributors. Lending Club has also established a single venture fund called Notes. On September 4, 2019, Lending Club made an investment in Even Financial through a Venture Round, valuing Even Financial at $25 million. Lending Club has experienced one exit, which was their investment in Even Financial. Furthermore, Lending Club has acquired two organizations, with their latest acquisition being Radius Bank on February 18, 2020, for a total sum of $185 million.[^1]
+Lending Club has successfully secured a total of $392.2 million in funding through 15 rounds of financing. Their most recent funding was obtained on April 9, 2017, in a Post-IPO Equity round. Lending Club is listed on the New York Stock Exchange (NYSE) under the ticker symbol LC. When it initially went public on December 11, 2014, its stock opened at $15.00 per share. The company has received funding from a group of 24 investors, with Two Sigma and Panorama Point Partners being the most recent contributors. Lending Club has also established a single venture fund called Notes. On September 4, 2019, Lending Club made an investment in Even Financial through a Venture Round, valuing Even Financial at $25 million. Lending Club has experienced one exit, which was their investment in Even Financial. Furthermore, Lending Club has acquired two organizations, with their latest acquisition being Radius Bank on February 18, 2020, for a total sum of $185 million.[^2]
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
@@ -32,14 +32,14 @@ LendingClub aims to solve the problem of inefficient and traditional lending by 
 The LC™ platform is a sophisticated technology ecosystem developed and refined by LendingClub over more than a decade. This platform incorporates a variety of components, including microservices, database technologies, cloud computing technologies, web-based software-as-a-service, and mobile software technologies.
 The LC™ platform is particularly noteworthy for its ability to connect investors and lenders with individuals seeking loans, such as personal or medical loans. It streamlines the borrowing process for individuals while helping lenders find suitable borrowers that match their preferred level of credit risk.
 Additionally, individuals have the option to access LendingClub's website, which is powered by the LC platform. Through this platform, users can apply for loans, explore loan options and interest rates, and manage their loan payments. Users can also make use of LC-enabled services to monitor their credit scores and receive financial health assessments. For investors, the platform offers opportunities for investment and access to loan performance data that aids in making informed investment decisions.
-It's important to mention that the LC™ platform incorporates patented technology, which may include innovations covered by one or more of the following patents: U.S. Patent No. 10,613,738, U.S. Patent No. 10,628,242, U.S. Patent No. 10,705,712, U.S. Patent No. 10,606,636, U.S. Patent No. 10,613,894, U.S. Patent No. 10,467,127, U.S. Patent No. 10,437,689, U.S. Patent No. 10,042,879, and U.S. Patent No. 10,114,857.
+It's important to mention that the LC™ platform incorporates patented technology, which may include innovations covered by one or more of the following patents: U.S. Patent No. 10,613,738, U.S. Patent No. 10,628,242, U.S. Patent No. 10,705,712, U.S. Patent No. 10,606,636, U.S. Patent No. 10,613,894, U.S. Patent No. 10,467,127, U.S. Patent No. 10,437,689, U.S. Patent No. 10,042,879, and U.S. Patent No. 10,114,857. [^3]
 ## Landscape
 
 * What domain of the financial industry is the company in?
   LendingClub operates in the domain of online banking specifically the peer-to-peer lending and online lending space. 
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
-  First and foremost a major trend in P2P and all of Fintech in general has to be Icreased trust in online marketplace. With the rise of e-commerce and online marketplaces, people have become more comfortable making financial transactions online. This has helped to increase trust in P2P lending platforms. •Easier access to credit: P2P lending platforms have found ways to make it easier for borrowers to access credit, particularly those who may not qualify for a loan from a traditional bank. •	Regulatory Changes: Regulatory bodies have implemented rules and regulations to ensure consumer protection and transparency in the industry adding to the trust that consumers have. Additionally - •	Diversification of Loan Products: Numerous Online lending platforms have expanded their offerings beyond personal loans to include products like small business loans and student loans, Lending club has done this. •	Advanced Underwriting: The use of advanced data analytics and machine learning has improved underwriting processes, enabling more accurate risk assessment. •Institutional Participation: An increasing number of institutional investors, such as hedge funds and asset managers, have become active participants in the peer-to-peer lending space. •	Securitization: Other platforms have explored the idea securitization of loans, packaging them into tradable securities where people can buy and sell loan securities just like stocks and other commodities traded.
+  First and foremost a major trend in P2P and all of Fintech in general has to be Icreased trust in online marketplace. With the rise of e-commerce and online marketplaces, people have become more comfortable making financial transactions online. This has helped to increase trust in P2P lending platforms. •Easier access to credit: P2P lending platforms have found ways to make it easier for borrowers to access credit, particularly those who may not qualify for a loan from a traditional bank. •	Regulatory Changes: Regulatory bodies have implemented rules and regulations to ensure consumer protection and transparency in the industry adding to the trust that consumers have. Additionally - •	Diversification of Loan Products: Numerous Online lending platforms have expanded their offerings beyond personal loans to include products like small business loans and student loans, Lending club has done this. •	Advanced Underwriting: The use of advanced data analytics and machine learning has improved underwriting processes, enabling more accurate risk assessment. •Institutional Participation: An increasing number of institutional investors, such as hedge funds and asset managers, have become active participants in the peer-to-peer lending space. •	Securitization: Other platforms have explored the idea securitization of loans, packaging them into tradable securities where people can buy and sell loan securities just like stocks and other commodities traded.[^4]
 
 * What are the other major companies in this domain?
   Other major companies in this domain include:
@@ -51,7 +51,7 @@ It's important to mention that the LC™ platform incorporates patented technolo
 ## Results
 
 * What has been the business impact of this company so far?
-LendingClub, being a trailblazer in the peer-to-peer lending sector, has left a significant mark on the financial industry in several ways, including:
+LendingClub, being a first-mover in the peer-to-peer lending sector, has left a significant mark on the financial industry in several ways, including:
 •Enhanced Credit Accessibility: LendingClub has opened up an alternative avenue for borrowers to secure credit, often with competitive interest rates. This has broadened the availability of personal loans for various needs.
 •Expanded Investment Horizons: The platform has introduced investors to a wider range of investment options by enabling them to participate in loans to individual borrowers. This diversification has the potential to enhance their investment portfolios.
 •Tech-Infused Lending: LendingClub's integration of technology and data analysis has had a profound impact on how traditional financial institutions approach lending and underwriting procedures. It has encouraged the adoption of tech-driven approaches to enhance efficiency and decision-making in the lending sector.
@@ -63,7 +63,8 @@ The Core metrics in P2P lending are as follows:
 #3 Interest Rates and Yields: Assessing the interest rates charged to borrowers and the returns earned by investors on funded loans.
 #4 Customer Acquisition and Retention: Measuring the number of borrowers and investors acquired and their retention rates.
 #5 Revenue and Profitability: Evaluating the company's revenue from fees and the overall profitability of the platform.
-#6 Regulatory Compliance: Ensuring compliance with financial regulations and maintaining a positive regulatory relationship.
+
+Lending club has originated up to X billions of dollars in loans.[^5]
 
   
 
@@ -81,4 +82,12 @@ The Core metrics in P2P lending are as follows:
 * Why are these technologies appropriate for your solution?
 
 
+[^1]:About Us | Save with LendingClub
+[^2]:Lending Club - Funding, Financials, Valuation & Investors (crunchbase.com)
+[^3]: https://www.lendingclub.com/poweredbylc
+[^4]: https://www.globenewswire.com/news-release/2023/01/11/2586809/0/en/P2P-Lending-Market-Size-to-Touch-USD-804-2-Billion-by-2030-Says-Acumen-Research-and-Consulting.html#:~:text=P2P%20Lending%20Market%20Research%20Report,growing%20at%20a%2029.1%25%20CAGR.
+[^5]: https://ir.lendingclub.com/news/news-details/2023/LendingClub-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx
+Other Sources:
+The Role of Peer-to-Peer Lending in Fintech - Spiceworks
+Peer to Peer (P2P) Lending Market Size, Share and Analysis | 2027 (alliedmarketresearch.com)
 

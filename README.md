@@ -51,8 +51,21 @@ It's important to mention that the LC™ platform incorporates patented technolo
 ## Results
 
 * What has been the business impact of this company so far?
+LendingClub, being a trailblazer in the peer-to-peer lending sector, has left a significant mark on the financial industry in several ways, including:
+•Enhanced Credit Accessibility: LendingClub has opened up an alternative avenue for borrowers to secure credit, often with competitive interest rates. This has broadened the availability of personal loans for various needs.
+•Expanded Investment Horizons: The platform has introduced investors to a wider range of investment options by enabling them to participate in loans to individual borrowers. This diversification has the potential to enhance their investment portfolios.
+•Tech-Infused Lending: LendingClub's integration of technology and data analysis has had a profound impact on how traditional financial institutions approach lending and underwriting procedures. It has encouraged the adoption of tech-driven approaches to enhance efficiency and decision-making in the lending sector.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+The Core metrics in P2P lending are as follows:
+ #1 Loan Origination Volume: The total value of loans facilitated on the platform, reflecting growth and market demand.
+#2 Loan Performance: Tracking the quality of loans by monitoring delinquency rates, default rates, and charge-off rates.
+#3 Interest Rates and Yields: Assessing the interest rates charged to borrowers and the returns earned by investors on funded loans.
+#4 Customer Acquisition and Retention: Measuring the number of borrowers and investors acquired and their retention rates.
+#5 Revenue and Profitability: Evaluating the company's revenue from fees and the overall profitability of the platform.
+#6 Regulatory Compliance: Ensuring compliance with financial regulations and maintaining a positive regulatory relationship.
+
+  
 
 * How is your company performing relative to competitors in the same domain?
 

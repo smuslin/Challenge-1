@@ -64,13 +64,34 @@ The Core metrics in P2P lending are as follows:
 #4 Customer Acquisition and Retention: Measuring the number of borrowers and investors acquired and their retention rates.
 #5 Revenue and Profitability: Evaluating the company's revenue from fees and the overall profitability of the platform.
 
-Lending club has originated up to X billions of dollars in loans.[^5]
+
 
   
 
 * How is your company performing relative to competitors in the same domain?
 
 * SoFi reported $2.98 billion in loan originations in Q4 2022, which represents a 20.9% decline compared to Q4 2021, and a 14.5% decline compared to Q3 2021. Personal loan originations were $2.47 billion, which represents a 49.8% increase compared to Q4 2021, but a 12.2% decline compared to Q3 2022.[^6] 
+
+The Following is simple comparative analysis of the financial performance of three notable players in the online lending and financial services industry: Lending Club, SoFi, and Upstart. The analysis is based on financial data from the specified period.
+
+Lending Club:
+Loan Originations: Lending Club reported loan originations of $2.5 billion, indicating a decrease from the previous year's $3.1 billion, suggesting reduced lending activity.
+Efficiency Ratio: The efficiency ratio improved from 72% in the prior year to 69%, indicating better marketing efficiency and cost management.
+Membership Growth: Lending Club has accumulated over 4.5 million members since its establishment in 2007, signifying a substantial customer base.[^5]
+SoFi:
+Loan Originations: In Q4 2022, SoFi reported loan originations of $2.98 billion, reflecting a decline of 20.9% compared to Q4 2021 and a 14.5% decline compared to Q3 2021.
+Personal Loan Originations: Personal loan originations were $2.47 billion, which represented a notable 49.8% increase compared to Q4 2021 but a 12.2% decline compared to Q3 2022.
+Financial Performance: SoFi reported revenue of $1.76 billion in 2022 but incurred a significant net income loss of -$360.832 million, potentially due to higher operating costs, particularly in sales, general, and administrative expenses (SG&A).[^6] 
+
+Upstart:
+Loan Originations: Upstart's lending partners originated 1,129,672 loans, totaling $11.2 billion in 2022, reflecting a 5% decline from the prior year.
+Conversion Rates: Conversion rates on rate requests dropped from 24% in the prior year to 14% in 2022, indicating a decrease in successful conversions.
+Net Income: Upstart reported a GAAP net income loss of ($108.7) million in 2022, down from $135.4 million in 2021. Adjusted net income was $19.4 million, down from $224.1 million in the prior year.[^7]
+
+Comparison:
+Lending Club experienced a reduction in loan originations but managed to improve its efficiency ratio, indicating effective cost management.
+SoFi encountered declining loan originations in the specified quarters and reported substantial net income losses, potentially attributable to high operating costs.
+Upstart also witnessed a decrease in loan originations and conversion rates, resulting in a net income loss in 2022, though its adjusted net income performed better than the GAAP figure. In summary, Lending Club displayed a relatively stable financial performance, while SoFi and Upstart, as newer entrants, faced challenges such as declining loan originations and profitability. Lending Club's longer industry presence and efficiency improvements contributed to its better financial position during the specified period.
 
 
 ## Recommendations
@@ -90,10 +111,6 @@ Lending club has originated up to X billions of dollars in loans.[^5]
 [^4]: https://www.globenewswire.com/news-release/2023/01/11/2586809/0/en/P2P-Lending-Market-Size-to-Touch-USD-804-2-Billion-by-2030-Says-Acumen-Research-and-Consulting.html#:~:text=P2P%20Lending%20Market%20Research%20Report,growing%20at%20a%2029.1%25%20CAGR.
 [^5]: https://ir.lendingclub.com/news/news-details/2023/LendingClub-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx
 [^6]:   https://www.popularfintech.com/p/sofi-q4-2022-earnings-review-the#:~:text=SoFi%20reported%20%242.98%20billion%20in,decline%20compared%20to%20Q3%202022.
-
-
-
-Other Sources:
-The Role of Peer-to-Peer Lending in Fintech - Spiceworks
-Peer to Peer (P2P) Lending Market Size, Share and Analysis | 2027 (alliedmarketresearch.com)
+[^7]: [Upstart Announces Fourth Quarter and Full Year 2022 Results | Upstart Network, Inc.](https://ir.upstart.com/news-releases/news-release-details/upstart-announces-fourth-quarter-and-full-year-2022 results#:~:text=Lending%20partners%20originated%201%2C129%2C672%20loans%2C%20totaling%20%2411.2%20billion%2C,our%20platform%2C%20down%205%25%20from%20the%20prior%20year.)https://ir.upstart.com/news-releases/news-release-details/upstart-announces-fourth-quarter-and-full-year-2022-results#:~:text=Lending%20partners%20originated%201%2C129%2C672%20loans%2C%20totaling%20%2411.2%20billion%2C,our%20platform%2C%20down%205%25%20from%20the%20prior%20year.
+[^8]Other Sources: The Role of Peer-to-Peer Lending in Fintech - Spiceworks ,Peer to Peer (P2P) Lending Market Size, Share and Analysis | 2027 (alliedmarketresearch.com)
 

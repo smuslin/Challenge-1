@@ -56,21 +56,14 @@ LendingClub, being a first-mover in the peer-to-peer lending sector, has left a 
 •Expanded Investment Horizons: The platform has introduced investors to a wider range of investment options by enabling them to participate in loans to individual borrowers. This diversification has the potential to enhance their investment portfolios.
 •Tech-Infused Lending: LendingClub's integration of technology and data analysis has had a profound impact on how traditional financial institutions approach lending and underwriting procedures. It has encouraged the adoption of tech-driven approaches to enhance efficiency and decision-making in the lending sector.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-The Core metrics in P2P lending are as follows:
- #1 Loan Origination Volume: The total value of loans facilitated on the platform, reflecting growth and market demand.
+* What are some of the core metrics that companies in this domain use to measure success?
+  
+#1 Loan Origination Volume: The total value of loans facilitated on the platform, reflecting growth and market demand.
 #2 Loan Performance: Tracking the quality of loans by monitoring delinquency rates, default rates, and charge-off rates.
 #3 Interest Rates and Yields: Assessing the interest rates charged to borrowers and the returns earned by investors on funded loans.
 #4 Customer Acquisition and Retention: Measuring the number of borrowers and investors acquired and their retention rates.
 #5 Revenue and Profitability: Evaluating the company's revenue from fees and the overall profitability of the platform.
 
-
-
-  
-
-* How is your company performing relative to competitors in the same domain?
-
-* SoFi reported $2.98 billion in loan originations in Q4 2022, which represents a 20.9% decline compared to Q4 2021, and a 14.5% decline compared to Q3 2021. Personal loan originations were $2.47 billion, which represents a 49.8% increase compared to Q4 2021, but a 12.2% decline compared to Q3 2022.[^6] 
 
 The Following is simple comparative analysis of the financial performance of three notable players in the online lending and financial services industry: Lending Club, SoFi, and Upstart. The analysis is based on financial data from the specified period.
 
@@ -88,7 +81,7 @@ Loan Originations: Upstart's lending partners originated 1,129,672 loans, totali
 Conversion Rates: Conversion rates on rate requests dropped from 24% in the prior year to 14% in 2022, indicating a decrease in successful conversions.
 Net Income: Upstart reported a GAAP net income loss of ($108.7) million in 2022, down from $135.4 million in 2021. Adjusted net income was $19.4 million, down from $224.1 million in the prior year.[^7]
 
-Comparison:
+Comparison Conclusion:
 Lending Club experienced a reduction in loan originations but managed to improve its efficiency ratio, indicating effective cost management.
 SoFi encountered declining loan originations in the specified quarters and reported substantial net income losses, potentially attributable to high operating costs.
 Upstart also witnessed a decrease in loan originations and conversion rates, resulting in a net income loss in 2022, though its adjusted net income performed better than the GAAP figure. In summary, Lending Club displayed a relatively stable financial performance, while SoFi and Upstart, as newer entrants, faced challenges such as declining loan originations and profitability. Lending Club's longer industry presence and efficiency improvements contributed to its better financial position during the specified period.
